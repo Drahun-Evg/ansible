@@ -1,0 +1,6 @@
+- hosts: all
+  become: true
+  roles:
+#   - ./roles/runners-deb-docker
+#   - ./roles/runners-cent-docker
+
